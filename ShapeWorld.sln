@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeWorld.Client", "ShapeW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeWorld.Domain", "ShapeWorld.Domain\ShapeWorld.Domain.csproj", "{BD7DC3D2-B5DF-4778-9F84-83E586BFAF6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeWorld.testing", "ShapeWorld.testing\ShapeWorld.testing.csproj", "{E690E327-F127-4F22-8958-123C734B0439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{BD7DC3D2-B5DF-4778-9F84-83E586BFAF6E}.Release|x64.Build.0 = Release|Any CPU
 		{BD7DC3D2-B5DF-4778-9F84-83E586BFAF6E}.Release|x86.ActiveCfg = Release|Any CPU
 		{BD7DC3D2-B5DF-4778-9F84-83E586BFAF6E}.Release|x86.Build.0 = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|x64.Build.0 = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Debug|x86.Build.0 = Debug|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|x64.ActiveCfg = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|x64.Build.0 = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|x86.ActiveCfg = Release|Any CPU
+		{E690E327-F127-4F22-8958-123C734B0439}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
